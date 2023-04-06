@@ -30,6 +30,8 @@ To exclude specific websites from being affected by Nostalgia Mode, type the web
 
 Pull requests and suggestions are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+[Buy me a coffee](https://cash.app/$DanielHicks06).
+
 ## License
 
 [MIT](LICENSE)
